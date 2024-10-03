@@ -12,4 +12,4 @@ Currently learning how to make a web app. my main programming language is Javasc
 - Node.js
 - ExpressJS
 
-![Kita Dance](https://tenor.com/view/kita-bocchi-ruby-oshi-no-ko-dance-gif-2435133904484480341)
+![Kita Dance](https://media1.tenor.com/m/IctVYl1OtVUAAAAC/kita-bocchi.gif)
