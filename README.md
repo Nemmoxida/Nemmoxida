@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Nemmoxida/Nemmoxida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Currently learning how to make a web app. my main programming language is Javascript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming language and some frameworks that i learn
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- ReactJS
+- NextJS
+- Tailwind CSS
+- Node.js
+- ExpressJS
