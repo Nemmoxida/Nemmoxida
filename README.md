@@ -14,4 +14,6 @@ Currently learning how to make a web app. my main programming language is Javasc
 - go
 - gin gonic
 
-![Kita Dance](https://media1.tenor.com/m/TRedry6UC4gAAAAd/uma-musume-symboli-rudolf.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/TRedry6UC4gAAAAd/uma-musume-symboli-rudolf.gif" width="300" />
+</p>
